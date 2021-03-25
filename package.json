@@ -1,0 +1,24 @@
+{
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "Its my first node project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rajibul",
+    "hasan",
+    "Beginner",
+    "node",
+    "project",
+    "apps",
+    "maker",
+    "bd"
+  ],
+  "author": "Rajibul Hasana and Apps Maker BD",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
